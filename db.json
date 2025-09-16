@@ -1,0 +1,36 @@
+{
+  "stats": [
+    {
+      "id": 1,
+      "title": "Views",
+      "total": 721,
+      "per": 11.01
+    },
+    {
+      "id": 2,
+      "title": "Visits",
+      "total": 367,
+      "per": -0.03
+    },
+    {
+      "id": 3,
+      "title": "New Users",
+      "total": 1156,
+      "per": 15.03
+    },
+    {
+      "id": 4,
+      "title": "Active Users",
+      "total": 239,
+      "per": 6.08
+    }
+  ],
+  "chartData": [
+    { "id": 1, "month": "January", "desktop": 186, "mobile": 80 },
+    { "id": 2, "month": "February", "desktop": 305, "mobile": 200 },
+    { "id": 3, "month": "March", "desktop": 237, "mobile": 120 },
+    { "id": 4, "month": "April", "desktop": 73, "mobile": 190 },
+    { "id": 5, "month": "May", "desktop": 209, "mobile": 130 },
+    { "id": 6, "month": "June", "desktop": 214, "mobile": 140 }
+  ]
+}
