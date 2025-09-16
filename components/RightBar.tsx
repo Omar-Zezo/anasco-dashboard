@@ -8,7 +8,7 @@ const RightBar = () => {
         <div className="flex flex-col gap-4">
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -20,7 +20,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <User size={16} />
+              <User size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -34,7 +34,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -46,7 +46,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -63,7 +63,7 @@ const RightBar = () => {
         <div className="flex flex-col gap-4">
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -75,7 +75,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <User size={16} />
+              <User size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -89,7 +89,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -101,7 +101,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -118,7 +118,7 @@ const RightBar = () => {
         <div className="flex flex-col gap-4">
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -130,7 +130,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <User size={16} />
+              <User size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -144,7 +144,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
@@ -156,7 +156,7 @@ const RightBar = () => {
 
           <div className="flex gap-3">
             <div className="size-8 p-2 rounded-full bg-[#E3F5FF]">
-              <Bug size={16} />
+              <Bug size={16} className="text-black" />
             </div>
             <div className="flex flex-col gap-1">
               <p className="text-sm text-primary line-clamp-1">
