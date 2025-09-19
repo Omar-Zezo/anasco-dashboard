@@ -36,7 +36,10 @@ const Navbar = () => {
             </BreadcrumbItem>
             <BreadcrumbSeparator>/</BreadcrumbSeparator>
             <BreadcrumbItem>
-              <BreadcrumbLink href="/components" className="text-black text-sm">
+              <BreadcrumbLink
+                href="/components"
+                className="text-primary text-sm"
+              >
                 Default
               </BreadcrumbLink>
             </BreadcrumbItem>
@@ -53,8 +56,8 @@ const Navbar = () => {
           />
         </div>
         <ModeToggle />
-        <History size={20} className="text-muted-foreground" />
-        <Bell size={20} className="text-muted-foreground" />
+        <History size={20} className="text-muted-foreground cursor-pointer" />
+        <Bell size={20} className="text-muted-foreground cursor-pointer" />
         <SidebarTrigger />
 
         <DropdownMenu>
